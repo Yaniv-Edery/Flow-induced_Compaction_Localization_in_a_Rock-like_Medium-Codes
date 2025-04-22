@@ -1,5 +1,5 @@
 # GRL-2025
-Data repository for "Flow-induced Compaction Localization in a Rock-like Medium" by Arnold Bachrach and Yaniv Edery - Technion - Israel Institute of Technology
+Post-processing scripts for "Flow-induced Compaction Localization in a Rock-like Medium" by Arnold Bachrach and Yaniv Edery - Technion - Israel Institute of Technology
 
 The data files required to reproduce figures 2 and 3 of the main text and figures 1 and 2 of the supplementary material is available here, along with the MATLAB scripts used to post-process it. The MATLAB scripts used for post-processing are available also at: https://github.com/Yaniv-Edery/GRL-2025. The initial PIV analysis was performed using PIVlab 3.09, an open-source MATLAB-based tool accessible at https://github.com/Shrediquette/PIVlab. MATLAB R2022b was used for both the PIVlab and the post-processing scripts. For each experiment ('S1','S2','S3') we provide three datasets which are used for three different post-processing scripts:
 
