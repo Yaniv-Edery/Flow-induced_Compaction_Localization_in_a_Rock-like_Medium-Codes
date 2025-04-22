@@ -1,7 +1,5 @@
 # GRL-2025
 
-The post processing scritps used for producing are available on this repository, while data is archived on Zenodo at: 10.5281/zenodo.15162110. The initial PIV analysis was performed using PIVlab 3.09 [16], an open-source MATLAB-based tool accessible at https://github.com/Shrediquette/ PIVlab. MATLAB R2022b was used for both the PIVlab and the post-processing scripts. For each experiment (’S1’,’S2’,’S3’) we provide three datasets which are used for three different post-processing scripts:
-
 Post-processing scripts for "Flow-induced Compaction Localization in a Rock-like Medium" by Arnold Bachrach and Yaniv Edery - Technion - Israel Institute of Technology
 
 The post-processing scritps used for producing figures 2 and 3 of the main text and figures 1 and 2 of the supplementary material are available here, and archived with the data files at: 10.5281/zenodo.15162110. The initial PIV analysis was performed using PIVlab 3.09, an open-source MATLAB-based tool accessible at https://github.com/Shrediquette/PIVlab. MATLAB R2022b was used for both the PIVlab and the post-processing scripts. For each experiment ('S1','S2','S3') we provide three datasets which are used for three different post-processing scripts:
