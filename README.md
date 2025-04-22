@@ -12,4 +12,4 @@ The post-processing scritps used for producing figures 2 and 3 of the main text 
 * 'Workspace pre localization ref updated' includes the displacements in $x_1$ and $x_2$ ('u original' and 'v original' $m$, respectively), which where calculated by the PIVlab with the reference frame being the last frame before the onset of the localization, at a temporal resolution of 0.01 s, and along 3 s of the localization process. This workspace is used with the script named 'Code pre localization ref', for calculating 2D displacement gradient fields (figure 3 'b' and figure 2 in the supplementary material) as well as 2D displacement fields at the onset of localization (figure 1 in the supplementary material).    
 
 
-Cite as: Bachrach, A., & Edery, Y. (2025a). Flow-induced compaction localization in a rock-like medium.
+Cite as: Bachrach, A., & Edery, Y. (2025). Flow-induced compaction localization in a rock-like medium.
